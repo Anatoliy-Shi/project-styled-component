@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/project-styled-component/static/js/main.caf8d47d.js",
+    "static/media/picture.png": "/project-styled-component/static/media/picture.2a71526180da1dc06c7d.png",
+    "index.html": "/project-styled-component/index.html",
+    "main.caf8d47d.js.map": "/project-styled-component/static/js/main.caf8d47d.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.caf8d47d.js"
+  ]
+}
